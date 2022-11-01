@@ -1,7 +1,7 @@
 # Cat-Tasks
 A cute, serious and smart task manager. 
 
-🇧🇷 😺 Um gerenciador de atividades fofo, sério e inteligente. Com ele você poderar criar uma lista de atividades que deverão ser concluídas no dia, a curto, a médio ou a longo prazo. 
+🇧🇷 😺 Um gerenciador de atividades fofo, sério e inteligente. Com ele você poder criar uma lista de atividades que deverão ser concluídas no dia, a curto, a médio ou a longo prazo. 
 
 É muito útil para seguir uma rotina, seja para estudos, se manter em forma ou qualquer outra coisa que imaginar. ***Isto não é um aplicativo de notas***, ou seja, é focado em apenas tarefas.
 
