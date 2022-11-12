@@ -13,14 +13,9 @@ A cute, serious and smart task manager.
 - [ ] - Estruturar os dados relativos ao aplicativo/usuário, como nome do usuário, lista de tarefas organizadas por categorias, em um formato que consiga importar ou exportar JSON <  > Objeto.
 - [ ] - Documentar seu funcionamento na Wiki do repositório, com seção para usuários do aplicativo e outra para desenvolvedores.
 
-## Ideias
-
-- Opção para linkar uma pasta específica para a tarefa. Por exemplo: "pasta de estudos de programação" ou "pasta de estudos de design gráfico". Seria o caminho para a pasta, algo como "~/Estudos/Dev" no Linux ou "C:\Users\user\Estudos" no Windows. Ao clicar no botão para o link, abrirá a pasta, se for link web, abrirá o link no navegador padrão.
-
-
 ## Design / Protótipo
 
-Confira o design de protótipo das telas [aqui](https://www.figma.com/file/QYrcFovTco1BuzBHsrIOmQ/Cat-Tasks-Prototype) (em desenvolvimento).
+Confira o design de protótipo das telas [aqui](https://design.penpot.app/#/view/69cd8e21-398c-8036-8001-89708d156ac3?page-id=69cd8e21-398c-8036-8001-89708d156ac4&section=interactions&index=0&share-id=76981dd7-ec3b-802f-8001-96502a0770e0) (em desenvolvimento).
 
 ## Licença
 
