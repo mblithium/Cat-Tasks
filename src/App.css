@@ -2,3 +2,14 @@
     background-color: var(--background);
     height: 100vh;
 }
+
+@media only screen and (min-width: 500px) {
+    .App {
+        width: 500px;
+        margin: auto;
+    }
+    #root {
+        background-image: url(./assets/background/cats.jpg);
+        background-repeat: repeat;
+    }
+}
